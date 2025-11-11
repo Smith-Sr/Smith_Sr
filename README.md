@@ -6,6 +6,9 @@
 
   </div>
 
+
+
+
   <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=52F7EF;FF6B6B;FFD93D&center=true&vCenter=true&width=700&lines=Welcome,+I’m+Mr_Smith;A+Student+and+an+Innovation+Enthusiast;AI+Explorer" 
        alt="Typing SVG" />
@@ -23,14 +26,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![Metrics](https://raw.githubusercontent.com/Smith-Sr/metrics/main/github-metrics.svg)
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
-<!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 **I'm a Night 🦉** 
+
+
+
+
 
 ```text
 🌞 Morning                2259 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
@@ -49,4 +57,16 @@ Friday                   2550 commits        ████░░░░░░░�
 Saturday                 1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 Sunday                   2122 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 ```
+
+
+
+<br />
+
+
+
+
+
+
+
+![Metrics](https://raw.githubusercontent.com/Smith-Sr/metrics/main/github-metrics.svg)
 
