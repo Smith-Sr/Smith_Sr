@@ -37,6 +37,14 @@
 **I'm a Night 🦉** 
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-Sr&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-Sr&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smith-Sr&theme=github_dark&utcOffset=8)
+
+
+
+
 
 
 
