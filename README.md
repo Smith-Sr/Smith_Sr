@@ -68,10 +68,8 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg" alt="Profile 3D demo"/>
-</div>
 
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
 
 ![Metrics](https://raw.githubusercontent.com/Smith-Sr/metrics/main/github-metrics.svg)
