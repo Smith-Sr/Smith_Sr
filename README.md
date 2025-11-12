@@ -31,7 +31,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
-<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 **I'm a Night 🦉** 
@@ -59,13 +59,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 ```
 
 
-
-<br />
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ![Metrics](https://raw.githubusercontent.com/Smith-Sr/metrics/main/github-metrics.svg)
