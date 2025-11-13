@@ -9,14 +9,14 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2000&pause=9000&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎵+SMITH'S+UNIVERSE+SOUNDTRACK+🎵" alt="Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=15&duration=2000&pause=9000&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎵+SMITH'S+UNIVERSE+SOUNDTRACK+🎵" alt="Title"/>
   <br><br>
   
   <a href="https://www.youtube.com/watch?v=jNCMvCGivgk&list=RDjNCMvCGivgk&start_radio=1">
     <img src="https://cdn.pixabay.com/animation/2024/02/26/16/31/16-31-14-322_512.gif" alt="Music Equalizer" width="600"/>
   </a>
   
-  <p><b>🎧 Listen with me 🎧</b></p>
+  <p><b>🎧 Listen with me 🎧👆</b></p>
 </div>
 
 
