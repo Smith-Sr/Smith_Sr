@@ -298,7 +298,7 @@ Instituto de Educación Superior Tecnológica SENATI
 <td align="center" width="50%">
 
 **🔧 Mantenimiento**  
-+++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++
 📅 Santa Lucía, Perú  
 *General maintenance operations*
 
@@ -306,7 +306,7 @@ Instituto de Educación Superior Tecnológica SENATI
 <td align="center" width="50%">
 
 **👨‍💼 Administrador**  
-+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
 📅 Santa Lucía, Perú  
 *Staff management & operations*
 
