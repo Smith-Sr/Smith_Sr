@@ -4,7 +4,7 @@
 <img alt="kitty" height="300px" width="300px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🌌+Welcome+to+Mr.+Smith's+Universe" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=🌌+Welcome+to+Mr.+Smith's+Universe" alt="Title">
 </h1>
 
 
@@ -298,7 +298,7 @@ Instituto de Educación Superior Tecnológica SENATI
 <td align="center" width="50%">
 
 **🔧 Mantenimiento**  
------------------------------------------
++++++++++++++++++++++
 📅 Santa Lucía, Perú  
 *General maintenance operations*
 
@@ -306,7 +306,7 @@ Instituto de Educación Superior Tecnológica SENATI
 <td align="center" width="50%">
 
 **👨‍💼 Administrador**  
------------------------------------------
++++++++++++++++++++
 📅 Santa Lucía, Perú  
 *Staff management & operations*
 
@@ -344,8 +344,8 @@ Instituto de Educación Superior Tecnológica SENATI
 ### 📞 Contact Information
 
 📧 **Email:** sirsmith.limas@gmail.com  
-📱 **Phone:** +51 900018973 | 946747700  
-📍 **Location:** Jirón Ucayali - amarilis, Huánuco, Perú
+📱 **Phone:** +51 946747700 |  
+📍 **Location:** Amarilis, Huánuco, Perú
 
 </div>
 
@@ -414,6 +414,6 @@ const smith = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-**Made with 💙 and ☕ by Smith Flores**
+**Made with 💙 and ☕ by Smith Limas**
 
 </div>
