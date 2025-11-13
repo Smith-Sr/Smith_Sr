@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🎵+SMITH'S+UNIVERSE+SOUNDTRACK+🎵" alt="Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2000&pause=9000&color=9D4EDD&center=true&vCenter=true&width=700&lines=🎵+SMITH'S+UNIVERSE+SOUNDTRACK+🎵" alt="Title"/>
   <br><br>
   
   <a href="https://www.youtube.com/watch?v=jNCMvCGivgk&list=RDjNCMvCGivgk&start_radio=1">
