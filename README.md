@@ -388,7 +388,7 @@ const smith = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you!** 😊
+**Always open to new professional connections. Feel free to say hello if you'd like to exchange ideas.** 😊
 
 ---
 
